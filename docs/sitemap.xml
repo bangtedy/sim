@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bangtedy.github.io/sim/about/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bangtedy.github.io/sim/categories/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/post/2022/03/29/konsep-dasar-sistem-dan-lnformasi/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/post/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/categories/sistem/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/tags/sistem-informasi/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/tags/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/about/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

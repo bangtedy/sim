@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Sistem Informasi Manajemen</title>
-    <link>https://bangtedy.github.io/sim/</link>
-    <description>Recent content in Home on Sistem Informasi Manajemen</description>
+    <title>sistem on Sistem Informasi Manajemen</title>
+    <link>https://bangtedy.github.io/sim/categories/sistem/</link>
+    <description>Recent content in sistem on Sistem Informasi Manajemen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/sim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bangtedy.github.io/sim/categories/sistem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Konsep Dasar Sistem dan lnformasi</title>
       <link>https://bangtedy.github.io/sim/post/2022/03/29/konsep-dasar-sistem-dan-lnformasi/</link>
@@ -16,19 +16,6 @@
       <description>Tujuan PembelajaranSemua yang ada di dunia ini dapat dilihat sebagai sebuah sistem. Untuk memahami sistem dapat dengan mempelajari definisi atau karakternya.
 Sesudah mempelajari dengan baik modul ini Anda diharapkan mampu:
 menjelaskan definisi sebuah sistem;menjelaskan perbedaan sistem fisik dan sistem prosedural;menjelaskan karakteristik dari suatu sistem;menjelaskan klasifikasi sistem;menjelaskan pengendalian sistem;memahami pengendalian pencegahan;memahami pengendalian umpan balik;memahami pengendalian umpan maju;menjelaskan definisi informasi;mengetahui mutu sebuah informasi;mengetahui arti penting suatu informasi bagi organisasi;menjelaskan jenis sistem dan subsistem informasi;menjelaskan pengendalian dalam sistem;mengetahui penilaian sebuah informasi.</description>
-    </item>
-    
-    <item>
-      <title>Tinjauan Mata Kuliah</title>
-      <link>https://bangtedy.github.io/sim/about/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bangtedy.github.io/sim/about/</guid>
-      <description>Nama Mata Kuliah: Sistem Informasi Manajemen
-Kode Mata Kuliah/SKS: EKMA4434/3 SKS
-Tutor: Tedy Herlambang
-Sistem informasi manajemen (SIM) merupakan sistem informasi yang menghasilkan keluaran (output) dengan menggunakan masukan (input) dan berbagai proses yang diperlukan untuk memenuhi tujuan tertentu dalam suatu kegiatan manajemen.
-Mata kuliah SIM ini mencakup pembahasan mengenai konsep-konsep dasar informasi, basis data, aplikasi dalam pengambilan keputusan dan perkembangan sistem teknologi informasi, serta internet sebagai sarana penunjang kegiatan bisnis. Mahasiswa diharapkan mampu menjelaskan dan mengaplikasikan konsep dan teori buku materi pokok (BMP).</description>
     </item>
     
   </channel>
