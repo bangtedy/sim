@@ -9,6 +9,8 @@ tags:
   - sistem, informasi
 ---
 
+<img src="https://openclipart.org/download/330082/1618816046halftone-dotted-pattern-rainbow-color.svg" style="max-width:15%;min-width:40px;float:right;" alt="blue-dotted" />
+
 ### Tujuan Pembelajaran
 
 Semua yang ada di dunia ini dapat dilihat sebagai sebuah sistem. Untuk memahami sistem dapat dengan mempelajari definisi atau karakternya.
@@ -210,6 +212,8 @@ knitr::include_graphics("langkah-pengolahan.png")
 ![](gambar1.11-siklus-informasi.png)
 
 ---
+
+<img src="https://openclipart.org/download/13763/sarxos-Simple-Green-Yellow-Blue-Violet-Folders.svg.svg" style="max-width:15%;min-width:40px;float:right;" alt="folders" />
 
 ### Tujuan Sistem Informasi
 
