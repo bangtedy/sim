@@ -1,5 +1,5 @@
 ---
-title: Konsep Dasar Sistem dan lnformasi
+title: Konsep Dasar Sistem dan lnformasi 
 author: Tedy Herlambang
 date: '2022-03-29'
 slug: konsep-dasar-sistem-dan-lnformasi
@@ -9,9 +9,8 @@ tags:
   - sistem, informasi
 ---
 
-<img src="https://openclipart.org/download/330082/1618816046halftone-dotted-pattern-rainbow-color.svg" style="max-width:15%;min-width:40px;float:right;" alt="blue-dotted" />
+### Tujuan Pembelajaran `r emo::ji ('graduation')`
 
-### Tujuan Pembelajaran
 
 Semua yang ada di dunia ini dapat dilihat sebagai sebuah sistem. Untuk memahami sistem dapat dengan mempelajari definisi atau karakternya.
 
@@ -34,7 +33,7 @@ Sesudah mempelajari dengan baik modul ini Anda diharapkan mampu:
 
 ---
 
-**KEGIATAN BELAJAR 1**
+**KEGIATAN BELAJAR 1** `r emo::ji('books')`
 
 ### Pengertian Sistem
 
