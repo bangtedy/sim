@@ -9,31 +9,35 @@ tags:
   - sistem, informasi
 ---
 
-### Tujuan Pembelajaran `r emo::ji ('graduation')`
+```{r load_packages, echo=FALSE}
+library ('fontawesome')
+```
+
+### `r fa("readme")` Capaian Pembelajaran
 
 
 Semua yang ada di dunia ini dapat dilihat sebagai sebuah sistem. Untuk memahami sistem dapat dengan mempelajari definisi atau karakternya.
 
 Sesudah mempelajari dengan baik modul ini Anda diharapkan mampu:
 
-1. menjelaskan definisi sebuah sistem;
-2. menjelaskan perbedaan sistem fisik dan sistem prosedural;
-3. menjelaskan karakteristik dari suatu sistem;
-4. menjelaskan klasifikasi sistem;
-5. menjelaskan pengendalian sistem;
-6. memahami pengendalian pencegahan;
-7. memahami pengendalian umpan balik;
-8. memahami pengendalian umpan maju;
-9. menjelaskan definisi informasi;
-10. mengetahui mutu sebuah informasi;
-11. mengetahui arti penting suatu informasi bagi organisasi;
-12. menjelaskan jenis sistem dan subsistem informasi;
-13. menjelaskan pengendalian dalam sistem;
-14. mengetahui penilaian sebuah informasi.
+- [x] menjelaskan definisi sebuah sistem;
+- [x] menjelaskan perbedaan sistem fisik dan sistem prosedural;
+- [x] menjelaskan karakteristik dari suatu sistem;
+- [x] menjelaskan klasifikasi sistem;
+- [x] menjelaskan pengendalian sistem;
+- [x] memahami pengendalian pencegahan;
+- [x] memahami pengendalian umpan balik;
+- [x] memahami pengendalian umpan maju;
+- [x] menjelaskan definisi informasi;
+- [x] mengetahui mutu sebuah informasi;
+- [x] mengetahui arti penting suatu informasi bagi organisasi;
+- [x] menjelaskan jenis sistem dan subsistem informasi;
+- [x] menjelaskan pengendalian dalam sistem;
+- [x] mengetahui penilaian sebuah informasi.
 
 ---
 
-**KEGIATAN BELAJAR 1** `r emo::ji('books')`
+## `r emo::ji('books')` KEGIATAN BELAJAR 1
 
 ### Pengertian Sistem
 
@@ -144,7 +148,7 @@ knitr::include_graphics("aktivitas-sim.png")
 
 ---
 
-**KEGIATAN BELAJAR 2**
+## `r emo::ji('books')`KEGIATAN BELAJAR 2
 
 A. Konsep Dasar Informasi
 
