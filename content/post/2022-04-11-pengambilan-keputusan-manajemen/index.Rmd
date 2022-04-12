@@ -1,0 +1,92 @@
+---
+title: Pengambilan Keputusan Manajemen dan Informasi yang Dibutuhkan
+author: Tedy Herlambang
+date: '2022-04-11'
+slug: pengambilan-keputusan-manajemen
+categories:
+  - Materi
+tags:
+  - pengambilan keputusan
+  - manajemen
+---
+
+
+```{r load_packages, echo=FALSE}
+library ('fontawesome')
+```
+
+### `r fa("readme")` Pendahuluan
+
+Modul ini akan membahas pengambilan keputusan manajemen. Manajemen membutuhkan informasi sebagai dasar pengambilan keputusan. Sistem informasi mempunyai peran penting dalam menyediakan informasi untuk semua tingkatan.
+
+Setelah mempelahari dengan baik modul ini, Anda diharapkan `mampu` 
+
+- [x] menjelaskan pelaku-pelaku atau aktor-aktor yang berkaitan atau yang berkepentingan dalam SIM, mulai dari *top, middle* dan *lower management*.
+- [x] menjelaskan konsep dasar pengambilan keputusan
+- [x] menjelaskan hubungan antara atau arti penting sistem informasi bagi pengambilan keputusan
+- [x] menjelaskan tipe kegiatan manajemen,
+- [x] menjelaskan tipe keputusan manajemen,
+- [x] menjelaskan peran manajemen dalam sistem informasi,
+- [x] menjelaskan pengaruh gaya kognitif dalam pengambilan keputusan
+- [x] menjelaskan tipe informasi yang diperlukan manajemen,
+- [x] menjelaskan karakteristik informasi manajemen pada organisasi,
+- [x] menjelaskan model logikal
+- [x] menunjukkan contoh-contoh aplikasi sistem informasi dalam organisasi
+- [x] menjelaskan metode pemilihan alternatif informasi dalam pengambilan keputusan.
+
+---
+
+## `r emo::ji('blue_book')` KEGIATAN BELAJAR 1
+
+---
+
+![](31-tingkatan-manajemen.png)
+
+---
+
+![](32-tipe-keputusan-manajemen.png)
+
+
+---
+
+## `r emo::ji('blue_book')` KEGIATAN BELAJAR 2
+
+---
+
+![](33-tipe-informasi.png)
+
+---
+
+![](34-kepadatan-informasi.png)
+
+---
+
+![](35-luas-informasi.png)
+
+---
+![](36-frekuensi-informasi.png)
+
+---
+
+![](37-skedul-informasi.png)
+
+---
+
+![](38-waktu-informasi.png)
+
+---
+![](311-tahapan-pengambilan.png)
+
+---
+![](312-informasi-fungsional.png)
+---
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_16 a2a_default_style"; data-a2a-url="https://bangtedy.github.io/sim" data-a2a-title="Pengambilan Keputusan Manajemen">
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
