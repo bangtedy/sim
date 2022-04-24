@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bangtedy.github.io/sim/tags/aplikasi/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/post/2022/04/22/aplikasi-sistem-informasi/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bangtedy.github.io/sim/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/categories/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/sim/tags/manajemen/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/categories/materi/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/post/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/tags/sistem-informasi/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/tags/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bangtedy.github.io/sim/tags/manajemen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/tags/pengambilan-keputusan/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/post/2022/04/11/pengambilan-keputusan-manajemen/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/sim/post/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/sim/tags/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/post/2022/04/08/konsep-sistem-informasi/</loc>
@@ -36,9 +45,6 @@
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/categories/sistem/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bangtedy.github.io/sim/tags/sistem-informasi/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bangtedy.github.io/sim/about/</loc>

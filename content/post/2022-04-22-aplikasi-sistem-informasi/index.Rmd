@@ -16,7 +16,7 @@ library ('fontawesome')
 
 ## `r emo::ji('book')` Pendahuluan
 
-Modul ini membhasa aplikasi sistem-sistem informasi di organisasi. Setelah mempelajari dengan baik modul ini, Anda diharapkan mampu:
+Modul ini membahas aplikasi sistem-sistem informasi di organisasi. Setelah mempelajari dengan baik modul ini, Anda diharapkan mampu:
 
 - [x] menjelaskan penerapan sistem informasi dalam di fungsi-fungsi organisasi;
 - [x] memahami apa yang disebut dengan sistem pengolahan transaksi;
@@ -150,7 +150,7 @@ dengan pemasok dan perusahaan dengan pelanggan secara on-line.
 penerbangan, jaringan hotel, agen-agen perjalanan dan konsumen dihubungkan dengan suatu 
 jaringan sistem pemesanan booking pesawat dan penginapan.
   + Perbankan: bank-bank dihubungkan dengan nasabah dengan menggunakan e-banking, ATM
-  + Bursa efek: investor, emiten, regulator, etc
+  + Bursa efek: investor, emiten, regulator, etc.
   
 <br />
 
