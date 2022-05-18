@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Sistem Informasi Manajemen",
+      "description": "Kode Mata Kuliah/SKS: EKMA4434/3 SKS",
+      "author": [],
+      "contents": "\r\nTutor: Tedy Herlambang\r\nSistem informasi manajemen (SIM) merupakan sistem informasi yang\r\nmenghasilkan keluaran (output) dengan menggunakan masukan\r\n(input) dan berbagai proses yang diperlukan untuk memenuhi\r\ntujuan tertentu dalam suatu kegiatan manajemen.\r\nMata kuliah SIM ini mencakup pembahasan mengenai konsep-konsep dasar\r\ninformasi, basis data, aplikasi dalam pengambilan keputusan dan\r\nperkembangan sistem teknologi informasi, serta internet sebagai sarana\r\npenunjang kegiatan bisnis. Mahasiswa diharapkan mampu menjelaskan dan\r\nmengaplikasikan konsep dan teori buku materi pokok (BMP). BMP terdiri\r\ndari 9 modul:\r\nKonsep dasar sistem informasi\r\nKonsep sistem informasi\r\nPengambilan keputusan manajemen dan informasi yang dibutuhkan\r\nAplikasi sistem informasi\r\nPengembangan sistem informasi\r\nTeknologi sistem informasi\r\nBasis data\r\nPengendalian sistem informasi\r\nInternet dan e-business\r\nRujukan utama:\r\nJogiyanto (2018). Sistem Informasi Manajemen (BMP)/EKMA4434.\r\nTangerang Selatan, Universitas Terbuka.\r\nRujukan tambahan:\r\nLaudon, Kenneth C., and Jane P. Laudon (2017). Essentials of\r\nmanagement information systems, Twelveth edition. Pearson.\r\nSousa, Kenneth J. and Effy Oz (2015) Management Information\r\nSystems, Seventh Edition. Cengage Learning.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-19T05:51:43+07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Materi",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-19T05:51:45+07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
