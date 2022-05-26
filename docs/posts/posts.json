@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2022-05-26-basis-data/",
+    "title": "Basis Data",
+    "description": "Modul 7/EKMA4434",
+    "author": [
+      {
+        "name": "Tedy Herlambang",
+        "url": "https://bangtedy.github.io"
+      }
+    ],
+    "date": "2022-05-26",
+    "categories": [],
+    "contents": "\r\n\r\nContents\r\nPENDAHULUAN\r\nKEGIATAN BELALAJAR\r\n1: Konsep Basis Data\r\nA. DEFINISI BASIS DATA\r\nB.\r\nPENDEKATAN TRADISIONAL DAN PENDEKATAN BASIS DATA\r\nPendekatan basis data\r\n\r\n\r\nPENDAHULUAN\r\nmodul ini akan membahas tentang basis data (database). Basis data\r\nmerupakan komponen yang penting di sistem informasi. Tanpa basis data\r\nmaka tidak akan dapat dihasilkan informasi yang dibutuhkan tepat waktu\r\nkarena basis data adalah sumber utama dari informasi.\r\nSesudah mempelajari dengan baik modul ini, Anda diharapkan mampu:\r\n\r\nmenjelaskan konsep basis data;\r\nmenjelaskan perbedaan antara pendekatan tradisional dan pendekatan\r\nbasis data;\r\nmemahami jenjang dari data;\r\nmemahami macam-macam file yang ada;\r\nmembedakan basis data logikal dan basis data fisik;\r\nmengetahui proses basis data;\r\nmengetahui organisasi basis data;\r\nmengetahui software pendukung basis data;\r\nmengetahui penggunaan perangkat lunak basis data;\r\nmengetahui basis data sebagai pendukung sistem informasi;\r\nmengetahui basis data multidimensi;\r\nmenjelaskan administrasi basis data;\r\nmenjelaskan struktur basis data;\r\nmenjelaskan organisasi dan manajemen basis data.\r\n\r\n\r\nKEGIATAN BELALAJAR 1:\r\nKonsep Basis Data\r\nA. DEFINISI BASIS DATA\r\nThink about web browser\r\nTo communicate with others,\r\nTo visit our favourite online sports store to search for\r\nmountain-bike\r\nWe enter a price range, models, etc…\r\nWithin a few seconds, the screen is filled with details on available\r\nmodels complete with product photos and specifications.\r\n–> Where did this rich, well-organized information come from?\r\nDatabases\r\n–> Combined with interactive webpages on the Internet, databases\r\nhave made an immense contribution to commerce.\r\n– > online banking, consumer catalogs, search engines, stock\r\nbrokerages, or social media.\r\n–> Their impact on business has allowed fewer people to complete\r\nlarger tasks, and their power has enabled organizations to learn more\r\nconsumers\r\nEvery time you enter the address of a website, a special program\r\nperforms a search in a huge database and matches your request with one\r\nof hundreds of millions of addresses.\r\nEvery time you fill out an online form with details such as your\r\naddress, phone number, or credit-card number, a program feeds the data\r\ninto a database, where each item is recorded for further use.\r\n\r\n\r\nBasis data (database) merupakan kumpulan dari data yang saling\r\nberhubungan satu dengan yang lainnya, tersimpan di perangkat keras\r\nkomputer dan digunakan perangkat lunak untuk memanipulasinya.\r\nBasis data komponen yang penting dalam sistem informasi karena\r\nmenyediakan informasi bagi para pemakai.\r\nPenerapan basis data dalam sistem informasi disebut dengan\r\ndatabase system.\r\nSistem basis data (database system) adalah suatu sistem informasi\r\nyang mengintegrasikan kumpulan dari data yang saling berhubungan satu\r\ndengan yang lainnya dan membuatnya tersedia untuk beberapa aplikasi yang\r\nbermacam-macam di dalam suatu organisasi.\r\n\r\nB.\r\nPENDEKATAN TRADISIONAL DAN PENDEKATAN BASIS DATA\r\nPendekatan tradisional mengumpulkan data ke dalam file-file yang\r\ntidak berhubungan satu dengan yang lainnya.\r\nBiasanya tiap-tiap file dirancang untuk aplikasi yang\r\ntertentu.\r\n\r\n\r\n\r\n\r\nKelemahan Pendekatan\r\nTradisional\r\nTerjadi duplikasi data (data redundancy)\r\n\r\nTidak terjadi hubungan data (data reliability).\r\n\r\nPendekatan basis data\r\nDuplikasi data (data redundancy) dikurangi. Karena basis data\r\nmerupakan kumpulan dari semua data secara umum maka dapat digunakan\r\nbersama-sama untuk semua aplikasi sehingga duplikasi data dapat\r\ndikurangi.\r\nHubungan data (data reliability) dapat ditingkatkan Karena data\r\ndikumpulkan bersama-sama maka hubungan dari data dapat ditingkatkan,\r\nyang berarti data di file tertentu dapat dihubungkan dengan data di\r\nfile-file lainnya.\r\n\r\nC. JENJANG DATA\r\nSampai dengan membentuk suatu basis data, data mempunyai jenjang\r\nmulai dari karakter-karakter (characters), item data (data item atau\r\nfield), record, file dan kemudian basis data.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-05-26-basis-data/pendekatan-trad.png",
+    "last_modified": "2022-05-26T17:22:32+07:00",
+    "input_file": {},
+    "preview_width": 284,
+    "preview_height": 274
+  },
+  {
     "path": "posts/2022-05-19-teknologi-sistem-informasi/",
     "title": "Teknologi Sistem Informasi",
     "description": "Modul 6",
